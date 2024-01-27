@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://marketplay.vip/</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/carts</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/faq</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/user/login</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/user/register</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/category/electric</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/item/bot-test-bot-test</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/user/forgot</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://marketplay.vip/2</loc>
+  <lastmod>2024-01-27T23:29:25+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
